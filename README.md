@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alyelaswad
 - 👀 I’m interested in Computer Architecture, Machine Learning, HDL programming
-- 🌱 I’m currently learning Computer Architecture & Digital Signal Processing
+- 🌱 I’m currently learning Machine learning & Data Analytics
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: email me at [alyelaswad@aucegypt.edu](mailto:alyelaswad@aucegypt.edu).
